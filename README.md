@@ -1,6 +1,6 @@
 - 👋 Hi, I’m The CEO Of Kurt Pty Ltd @kdmc712.
-- 👀 I’m interested in game development & social programming & engineering.
-- 🌱 I’m currently learning The Truth!
+- 👀 I’m interested in game development & web programming.
+- 🌱 I’m currently learning the truth💯 
 - 💞️ I’m looking to collaborate on cryptocurrency,meditational practices, & real estate
 - 📫 How to reach me...
 
