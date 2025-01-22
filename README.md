@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @kdmc712
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m The CEO Of Kurt Pty Ltd @kdmc712.
+- 👀 I’m interested in game development & social programming & engineering.
+- 🌱 I’m currently learning The Truth!
+- 💞️ I’m looking to collaborate on cryptocurrency,meditational practices, & real estate
+- 📫 How to reach me...
+
+E. aaosp@duck.com
+Ph. 0434935979
 
 <!---
 kdmc712/kdmc712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
