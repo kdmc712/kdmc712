@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cryptocurrency,meditational practices & real estate.
 - 📫 How to reach me...
 
-E. aaosp@duck.com
+E. sollittkurt@duck.com
 
 <!---
 kdmc712/kdmc712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
