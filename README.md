@@ -1,10 +1,15 @@
-- 👋 Hi, I’m An Private Tax Equity Investor. @kdmc712.
-- 👀 I’m interested in game development & web programming.
-- 🌱 I’m currently learning the truth.💯 
-- 💞️ I’m looking to collaborate on cryptocurrency,meditational practices & real estate.
+- 👋 Hi, I’m An Unity Devops Engineer.
+- 😎 Github Username: @kdmc712.
+- 👀 I’m interested in C#, C++ & Python Coding. 
+- 💰 I love Game Development & CryptoCurrency.
+- 🌱 I’m currently learning About CI/CD & Pipelines. 
+- 💞️ I’m looking to collaborate on a merkle tree.
 - 📫 How to reach me...
+- 📞 (P). 0411946339
+          ~~~~~~~~~~
 
-E. sollittkurt@duck.com
+- 📧 (E). sollittkurt@duck.com
+          ~~~~~~~~~~~~~~~~~~~~
 
 <!---
 kdmc712/kdmc712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
