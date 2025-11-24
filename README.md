@@ -5,11 +5,12 @@
 - 🌱 I’m currently learning About CI/CD & Pipelines. 
 - 💞️ I’m looking to collaborate on a merkle tree.
 - 📫 How to reach me...
-- 📞 (P). 0411946339
-          ~~~~~~~~~~
 
-- 📧 (E). sollittkurt@duck.com
-          ~~~~~~~~~~~~~~~~~~~~
+- 📞. (P). 0411 946 339
+          ~~~~~~~~~~~~~~
+
+- 📧. (E). sollittkurt@duck.com
+          ~~~~~~~~~~~~~~~~~~~~~~
 
 <!---
 kdmc712/kdmc712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
